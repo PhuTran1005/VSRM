@@ -6,7 +6,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2506.22762)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PhuTran1005.VSRM)
-[![GitHub Stars](https://img.shields.io/github/stars/PhuTran1005/SAT?style=social)](https://github.com/PhuTran1005/VSRM)
+[![GitHub Stars](https://img.shields.io/github/stars/PhuTran1005/VSRM?style=social)](https://github.com/PhuTran1005/VSRM)
 
 ## Updates
 - 🎉 2025-06-25: Accepted to ICCV 2025!
